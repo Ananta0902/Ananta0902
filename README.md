@@ -9,95 +9,32 @@
 <p align="center">
 Building full-stack applications and solving real-world problems through code.
 </p>
+<br>
 
 ## 👩‍💻 About Me:
 I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas into impactful software solutions.
 Currently diving deeper into:
 - MERN Stack
-- Generative AI & LLMs
+- Generative AI 
 - Machine Learning
 
 ## My Tech Stack
 
-### Languages
-
-
-### Frontend
-
-React • Bootstrap • Material UI
-
-### Backend
-
-Node.js • Express.js
-
-### Database
-
-MongoDB • MySQL
-
-### Tools
-
-Git • GitHub • VS Code • Postman
-
----
-
-## 📌 Featured Projects
-
-### 📹 Meetify
-
-Video Calling Platform using WebRTC & Socket.IO
-
-**Tech:** React, Node.js, Express, Socket.IO
-
----
-
-### 🌍 WanderLust
-
-Travel Listing Platform
-
-**Tech:** Node.js, Express, MongoDB, EJS
-
----
-
-### 💰 Finance Dashboard Backend
-
-REST APIs for finance management.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ananta0902&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananta0902&theme=github-dark"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,mysql,python,git,github,vscode,postman" />
 </p>
 
----
 
-## 💻 Most Used Languages
+## 🌐 Let's Connect 
 
-<p align="center">
+LinkedIn: https://www.linkedin.com/in/ananta-pandey-b58b282b1/
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananta0902&layout=compact&theme=github_dark"/>
+Portfolio:
 
-</p>
+CodeChef: https://www.codechef.com/users/cuddly_sun_47
 
----
-
-## 🌐 Connect with Me
-
-LinkedIn: https://linkedin.com/in/YOUR_LINK
-
-Portfolio: https://YOUR_PORTFOLIO
-
-CodeChef: https://www.codechef.com/users/YOUR_USERNAME
-
-LeetCode: https://leetcode.com/YOUR_USERNAME
+LeetCode: https://leetcode.com/u/Ananta_09/
 
 Email: anantapandey0902@gmail.com
 
----
-
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile :)
