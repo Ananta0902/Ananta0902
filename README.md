@@ -5,36 +5,22 @@
 
 <h1 align="center">Hi there👋, I'm Ananta </h1>
 
-<h3 align="center">
-Software Developer | MERN Stack Developer | Problem Solver
-</h3>
 
 <p align="center">
-Building full-stack applications and continuously improving my problem-solving skills.
+Building full-stack applications and solving real-world problems through code.
 </p>
 
----
+## 👩‍💻 About Me:
+I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas into impactful software solutions.
+Currently diving deeper into:
+- MERN Stack
+- Generative AI & LLMs
+- Machine Learning
 
-## 👩‍💻 About Me
-
-- 🎓 Computer Science Student
-- 🌱 Currently learning **System Design & Advanced Backend**
-- 💻 Building Full Stack MERN Applications
-- 📹 Working on **Meetify** (Video Calling Platform)
-- ✈️ Building **WanderLust** (Travel Listing Platform)
-- 🏆 Solving DSA regularly on CodeChef & LeetCode
-- 🎯 Goal: Crack an SDE Internship
-
----
-
-## 🚀 Tech Stack
+## My Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
 
 ### Frontend
 
