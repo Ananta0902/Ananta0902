@@ -26,11 +26,12 @@ Currently diving deeper into:
 
 
 ## 🌐 Let's Connect 
-
+<li>
 -[LinkedIn](https://www.linkedin.com/in/ananta-pandey-b58b282b1/)
 -[CodeChef](https://www.codechef.com/users/cuddly_sun_47)
 -[LeetCode](https://leetcode.com/u/Ananta_09/)
 -[Portfolio]()
 -[Email](anantapandey0902@gmail.com)
+</li>
 
  Thanks for visiting my profile :)
