@@ -27,11 +27,11 @@ Currently diving deeper into:
 
 ## 🌐 Let's Connect 
 <ul>
--[LinkedIn](https://www.linkedin.com/in/ananta-pandey-b58b282b1/)
--[CodeChef](https://www.codechef.com/users/cuddly_sun_47)
--[LeetCode](https://leetcode.com/u/Ananta_09/)
--[Portfolio]()
--[Email](anantapandey0902@gmail.com)
+  <li><a href="https://www.linkedin.com/in/ananta-pandey-b58b282b1/" target="_blank">💼 LinkedIn</a></li>
+  <li><a href="https://www.codechef.com/users/cuddly_sun_47" target="_blank">⭐ CodeChef</a></li>
+  <li><a href="https://leetcode.com/u/Ananta_09/" target="_blank">💻 LeetCode</a></li>
+  <li><a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a></li>
+  <li><a href="mailto:anantapandey0902@gmail.com">📧 anantapandey0902@gmail.com</a></li>
 </ul>
 
  Thanks for visiting my profile :)
