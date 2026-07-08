@@ -19,13 +19,14 @@ Currently diving deeper into:
 - Machine Learning
 - Docker & AWS Cloud 
 
-## My Tech Stack
+## 🛠️ My Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,mysql,python,git,github,vscode,postman" />
 </p>
 
-# 🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 ## 🌍 Wanderlust – Airbnb Inspired Booking Platform
 
@@ -99,13 +100,24 @@ Currently diving deeper into:
   <li><a href="https://www.codechef.com/users/cuddly_sun_47" target="_blank">⭐ CodeChef</a></li>
   <li><a href="" target="_blank">🌐 Portfolio</a></li>
   <li><a href="mailto:anantapandey0902@gmail.com">📧 anantapandey0902@gmail.com</a></li>
+  <li><a href=" https://codolio.com/profile/ananta0902" target="_blank">📊 Codolio</a></li>
 </ul>
 
  Thanks for visiting my profile :)
 
-Here are some fun projects/games that I have build in my initial journey while learning development.
-1.Number guessing game- <a href="https://number-guessing-game-six-omega.vercel.app/ " target="_blank">Play Here </a>
-https://github.com/Ananta0902/Number-guessing-game  
-2.Simon Says game- <a href="https://simons-says-game-rosy.vercel.app/ " target="_blank">Play Here </a>
-https://github.com/Ananta0902/Simons-says-game
+# 🎮 Fun Projects
+
+> These projects were built during my early development journey while learning JavaScript, HTML, and CSS.
+
+### 🎯 Number Guessing Game
+
+🎮 **Live Demo:** <a href="https://number-guessing-game-six-omega.vercel.app/" target="_blank">Play Here</a>  
+📂 **Source Code:** <a href="https://github.com/Ananta0902/Number-guessing-game" target="_blank">GitHub Repository</a>
+
+---
+
+### 🧠 Simon Says Game
+
+🎮 **Live Demo:** <a href="https://simons-says-game-rosy.vercel.app/" target="_blank">Play Here</a>  
+📂 **Source Code:** <a href="https://github.com/Ananta0902/Simons-says-game" target="_blank">GitHub Repository</a>
 
