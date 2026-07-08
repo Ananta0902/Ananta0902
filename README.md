@@ -17,6 +17,7 @@ Currently diving deeper into:
 - MERN Stack
 - Generative AI 
 - Machine Learning
+- Docker & AWS Cloud 
 
 ## My Tech Stack
 
@@ -24,14 +25,87 @@ Currently diving deeper into:
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,mysql,python,git,github,vscode,postman" />
 </p>
 
+# 🚀 Featured Projects
+
+## 🌍 Wanderlust – Airbnb Inspired Booking Platform
+
+> A full-stack property rental platform inspired by Airbnb, allowing users to discover, list, and review accommodations with secure authentication and location-based search.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary` `Mapbox`
+
+### ✨ Key Features
+
+- 🔐 Secure User Authentication
+- 🏡 Property Listings Management
+- 📍 Interactive Maps
+- 📷 Cloud Image Uploads
+- ⭐ Reviews & Ratings
+- 📱 Responsive Design
+
+**🔗 Live:** https://wanderlust-4ahg.onrender.com/listings
+**📂 Repository:** https://github.com/Ananta0902/wanderLust-
+
+---
+
+## 🎥 Meetify – Real-Time Video Conferencing
+
+> A Zoom-inspired video conferencing application built with WebRTC and Socket.IO, enabling secure peer-to-peer communication.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `Socket.IO` `WebRTC`
+
+### ✨ Key Features
+
+- 🎥 Video & Audio Calls
+- 💬 Real-time Chat
+- 🖥️ Screen Sharing
+- 👥 Room-based Meetings
+- ⚡ Peer-to-Peer Communication
+- 📱 Responsive UI
+
+**🔗 Live:** *(Coming Soon)*
+**📂 Repository:** https://github.com/Ananta0902/Meetify
+
+---
+
+## 📈 TradeSphere – MERN Stock Trading Platform
+
+> A stock trading dashboard inspired by Zerodha that allows users to monitor holdings, manage portfolios, and place buy/sell orders through a modern interface.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+### ✨ Key Features
+
+- 📊 Portfolio Dashboard
+- 💹 Buy & Sell Orders
+- ⭐ Personalized Watchlist
+- 📋 Holdings Management
+- 🔗 RESTful APIs
+- ⚡ Modern Responsive Interface
+
+**🔗 Live:** *(Coming Soon)*
+**📂 Repository:** https://github.com/Ananta0902/TradeSphere
+
 
 ## 🌐 Let's Connect 
 <ul>
-  <li><a href="https://www.linkedin.com/in/ananta-pandey-b58b282b1/" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a></li>
-  <li><a href="https://www.codechef.com/users/cuddly_sun_47" target="_blank">⭐ CodeChef</a></li>
+  <li><a href="https://www.linkedin.com/in/ananta-pandey-b58b282b1/" target="_blank">👜LinkedIn</a></li>
   <li><a href="https://leetcode.com/u/Ananta_09/" target="_blank">💻 LeetCode</a></li>
-  <li><a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a></li>
+  <li><a href="https://www.codechef.com/users/cuddly_sun_47" target="_blank">⭐ CodeChef</a></li>
+  <li><a href="" target="_blank">🌐 Portfolio</a></li>
   <li><a href="mailto:anantapandey0902@gmail.com">📧 anantapandey0902@gmail.com</a></li>
 </ul>
 
  Thanks for visiting my profile :)
+
+Here are some fun projects/games that I have build in my initial journey while learning development.
+1.Number guessing game- <a href="https://number-guessing-game-six-omega.vercel.app/ " target="_blank">Play Here </a>
+https://github.com/Ananta0902/Number-guessing-game  
+2.Simon Says game- <a href="https://simons-says-game-rosy.vercel.app/ " target="_blank">Play Here </a>
+https://github.com/Ananta0902/Simons-says-game
+
