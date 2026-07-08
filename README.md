@@ -94,7 +94,8 @@ I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas int
   <li><a href="https://www.codechef.com/users/cuddly_sun_47" target="_blank">⭐ CodeChef</a></li>
   <li><a href="" target="_blank">🌐 Portfolio</a></li>
   <li><a href="mailto:anantapandey0902@gmail.com">📧 anantapandey0902@gmail.com</a></li>
-  <li><a href=" https://codolio.com/profile/ananta0902" target="_blank">📊 Codolio</a></li>
+  <li><a href="https://codolio.com/profile/ananta0902" target="_blank">📊 Codolio</a></li>
+  <li><a href=""target="_blank">Download my Resume Here</a>a></li>
 </ul>
 
  Thanks for visiting my profile :)
