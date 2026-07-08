@@ -4,16 +4,10 @@
 
 
 <h1 align="center">Hi there👋, I'm Ananta </h1>
-
-
-<p align="center">
-Building full-stack applications and solving real-world problems through code.
-</p>
 <br>
 
 ## 👩‍💻 About Me:
-I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas into impactful software solutions.
-Currently diving deeper into:
+I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas into impactful software solutions.I enjoy working across the full stack, from designing intuitive frontends to developing robust backend APIs. Alongside web development, I'm actively exploring Artificial Intelligence and Machine Learning to build intelligent applications.Outside development, you'll often find me solving DSA problems, participating in coding contests, or learning new technologies.Currently diving deeper into:
 - MERN Stack
 - Generative AI 
 - Machine Learning
