@@ -7,7 +7,7 @@
 <br>
 
 ## 👩‍💻 About Me:
-I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas into impactful software solutions.I enjoy working across the full stack, from designing intuitive frontends to developing robust backend APIs. Alongside web development, I'm actively exploring Artificial Intelligence and Machine Learning to build intelligent applications.Outside development, you'll often find me solving DSA problems, participating in coding contests, or learning new technologies.Currently diving deeper into:
+I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full stack, from designing intuitive frontends to developing robust backend APIs. Alongside development,I'm actively exploring Artificial Intelligence and Machine Learning to build intelligent applications.Outside development, you'll often find me solving DSA problems, participating in coding contests, or learning new technologies.Currently diving deeper into:
 - MERN Stack
 - Generative AI 
 - Machine Learning
@@ -28,16 +28,7 @@ I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas int
 
 **Tech Stack**
 
-`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary` `Mapbox`
-
-### ✨ Key Features
-
-- 🔐 Secure User Authentication
-- 🏡 Property Listings Management
-- 📍 Interactive Maps
-- 📷 Cloud Image Uploads
-- ⭐ Reviews & Ratings
-- 📱 Responsive Design
+`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary` `Mapbox`  `MVC Framework`
 
 **🔗 Live:** https://wanderlust-4ahg.onrender.com/listings
 **📂 Repository:** https://github.com/Ananta0902/wanderLust-
@@ -52,15 +43,6 @@ I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas int
 
 `React` `Node.js` `Express.js` `Socket.IO` `WebRTC`
 
-### ✨ Key Features
-
-- 🎥 Video & Audio Calls
-- 💬 Real-time Chat
-- 🖥️ Screen Sharing
-- 👥 Room-based Meetings
-- ⚡ Peer-to-Peer Communication
-- 📱 Responsive UI
-
 **🔗 Live:** *(Coming Soon)*
 **📂 Repository:** https://github.com/Ananta0902/Meetify
 
@@ -74,15 +56,6 @@ I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas int
 
 `React` `Node.js` `Express.js` `MongoDB`
 
-### ✨ Key Features
-
-- 📊 Portfolio Dashboard
-- 💹 Buy & Sell Orders
-- ⭐ Personalized Watchlist
-- 📋 Holdings Management
-- 🔗 RESTful APIs
-- ⚡ Modern Responsive Interface
-
 **🔗 Live:** *(Coming Soon)*
 **📂 Repository:** https://github.com/Ananta0902/TradeSphere
 
@@ -95,7 +68,7 @@ I'm a 4th year BTech student at IIEST,Shibpur,passionate about turning ideas int
   <li><a href="" target="_blank">🌐 Portfolio</a></li>
   <li><a href="mailto:anantapandey0902@gmail.com">📧 anantapandey0902@gmail.com</a></li>
   <li><a href="https://codolio.com/profile/ananta0902" target="_blank">📊 Codolio</a></li>
-  <li><a href=""target="_blank">Download my Resume Here</a>a></li>
+  <li><a href=""target="_blank">Download my Resume Here</a></li>
 </ul>
 
  Thanks for visiting my profile :)
