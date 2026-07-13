@@ -43,7 +43,7 @@ I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full st
 
 `React` `Node.js` `Express.js` `Socket.IO` `WebRTC`
 
-**🔗 Live:** *(Coming Soon)*
+**🔗 Live:** https://meetify-web.netlify.app/
 **📂 Repository:** https://github.com/Ananta0902/Meetify
 
 ---
