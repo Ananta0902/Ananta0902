@@ -22,29 +22,29 @@ I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full st
 
 ## 🚀 Featured Projects
 
-## 🌍 Wanderlust – Airbnb Inspired Booking Platform
-
-> A full-stack property rental platform inspired by Airbnb, allowing users to discover, list, and review accommodations with secure authentication and location-based search.
-
-**Tech Stack**
-
-`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary` `Mapbox`  `MVC Framework`
-
-**🔗 Live:** https://wanderlust-4ahg.onrender.com/listings
-**📂 Repository:** https://github.com/Ananta0902/wanderLust-
-
----
-
-## 🎥 Meetify – Real-Time Video Conferencing
+## 🎥Meetify- Real-Time Video Conferencing Platform enhanced with AI
 
 > A Zoom-inspired video conferencing application built with WebRTC and Socket.IO, enabling secure peer-to-peer communication.
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js` `Socket.IO` `WebRTC`
-
+`React` `Node.js` `Express.js` `Socket.IO` `WebRTC` `Groq API`   `Llama 3 / Mixtral`
+  
 **🔗 Live:** https://meetify-web.netlify.app/
 **📂 Repository:** https://github.com/Ananta0902/Meetify
+
+---
+
+## 🌍Wanderlust— Next-Gen AI-Driven Property Listing Engine
+
+> A full-stack property rental platform inspired by Airbnb, allowing users to discover, list, and review accommodations with secure authentication and location-based search.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary` `Mapbox`  `MVC Framework` `Google gemini API`
+
+**🔗 Live:** https://wanderlust-4ahg.onrender.com/listings
+**📂 Repository:** https://github.com/Ananta0902/wanderLust-
 
 ---
 
