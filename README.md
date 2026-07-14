@@ -11,7 +11,8 @@ I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full st
 - MERN Stack
 - Generative AI 
 - Machine Learning
-- Docker & AWS Cloud 
+- Docker & AWS Cloud
+- Kubernets 
 
 ## 🛠️ My Tech Stack:
 
@@ -24,7 +25,7 @@ I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full st
 
 ## 🎥Meetify- Real-Time Video Conferencing Platform enhanced with AI
 
-> A Zoom-inspired video conferencing application built with WebRTC and Socket.IO, enabling secure peer-to-peer communication.
+>A real-time video conferencing platform powered by WebRTC and Socket.IO, enhanced with AI features for intelligent meeting assistance and productivity. 
 
 **Tech Stack**
 
@@ -37,7 +38,7 @@ I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full st
 
 ## 🌍Wanderlust— Next-Gen AI-Driven Property Listing Engine
 
-> A full-stack property rental platform inspired by Airbnb, allowing users to discover, list, and review accommodations with secure authentication and location-based search.
+A full-stack Airbnb-inspired rental platform with secure authentication, interactive maps, image management using cloudinary, and AI-powered travel assistance for smarter trip planning.
 
 **Tech Stack**
 
