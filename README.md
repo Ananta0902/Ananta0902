@@ -38,7 +38,7 @@ I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full st
 
 ## 🌍Wanderlust— Next-Gen AI-Driven Property Listing Engine
 
-A full-stack Airbnb-inspired rental platform with secure authentication, interactive maps, image management using cloudinary, and AI-powered travel assistance for smarter trip planning.
+>A full-stack Airbnb-inspired rental platform with secure authentication, interactive maps, image management using cloudinary, and AI-powered travel assistance for smarter trip planning.
 
 **Tech Stack**
 
