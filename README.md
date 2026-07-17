@@ -63,7 +63,7 @@ I'm a 4th year BTech student at IIEST,Shibpur,I enjoy working across the full st
 
 ## 🌐 Let's Connect 
 <ul>
-  <li><a href="https://www.linkedin.com/in/ananta-pandey-b58b282b1/" target="_blank">👜LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/anantapandey0902/" target="_blank">👜LinkedIn</a></li>
   <li><a href="https://leetcode.com/u/Ananta_09/" target="_blank">💻 LeetCode</a></li>
   <li><a href="https://www.codechef.com/users/cuddly_sun_47" target="_blank">⭐ CodeChef</a></li>
   <li><a href="https://anantadev.netlify.app/" target="_blank">🌐 Portfolio</a></li>
